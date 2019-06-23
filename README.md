@@ -6,9 +6,7 @@ Todo:
 <br>
 [x] npm install leaflet.js (may require additional packages - leaflet-control-geocoder) 
 <br>
-[x] npm install styled components
-<br>
-[] render map to page
+[x] render map to page
 <br>
 [] add current user location to map via pin 
 <br>
