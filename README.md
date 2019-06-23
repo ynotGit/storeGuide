@@ -3,8 +3,9 @@ Route finder application, finds the nearest recommended Menswear / Streetwear st
 Todo: 
 
 [x] create-react-app 
-[] npm install leaflet.js (may require additional packages - leaflet-control-geocoder) 
-[] render map to page  [] add current user location to map via pin 
+[x] npm install leaflet.js (may require additional packages - leaflet-control-geocoder) 
+[] render map to page
+[] add current user location to map via pin 
 [] calculate route from current location to a single store 
 [] calculate route from user input location to a single store 
 [] create a city with recomended stores 
