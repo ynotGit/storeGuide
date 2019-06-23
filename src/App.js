@@ -1,11 +1,16 @@
 import React, { Component } from "react";
 import "./App.css";
+import L from 'leaflet';
 import { Map, TileLayer, Marker, Popup } from "react-leaflet";
+
+var icon = L.icon({
+
+})
 
 class SimpleExample extends Component<{}, State> {
   state = {
-    lat: 51.505,
-    lng: -0.09,
+    lat: 54.97328,
+    lng: -1.61396,
     zoom: 13
   };
 
