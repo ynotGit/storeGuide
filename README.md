@@ -8,6 +8,8 @@ Todo:
 <br>
 [x] render map to page
 <br>
+[x] redner icon to map
+<br>
 [] add current user location to map via pin 
 <br>
 [] calculate route from current location to a single store 
