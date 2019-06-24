@@ -10,7 +10,7 @@ Todo:
 <br>
 [x] render icon to map
 <br>
-[] add current user location to map via pin 
+[x] add current user location to map via pin 
 <br>
 [] calculate route from current location to a single store 
 <br>
