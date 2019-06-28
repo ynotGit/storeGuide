@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import L from "leaflet";
 import { Map, TileLayer, Marker, Popup } from "react-leaflet";
+import "leaflet-routing-machine";
 
 var customIcon = L.icon({
   iconUrl: require("../src/images/marker.png"),
